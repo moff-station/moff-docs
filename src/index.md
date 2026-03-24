@@ -1,15 +1,9 @@
-<img src="en/assets/misc/icon-trans.svg" width=128 style="margin-left:auto;margin-right:auto;display:block"/>
+<img src="assets/icon.png" width=128 style="margin-left:auto;margin-right:auto;display:block;border-radius:5%;"/>
 
-```admonish warning "Players beware"
-This is the developer's wiki. If you are a player, you are looking for [the player wiki](https://wiki.spacestation14.io/wiki/Main_Page).
-```
+# Welcome to the Moffstation Wiki!
 
-```admonish question "Technical Issues"
-If you are having difficulties with logging into the game or building it, please try the following resources:
-[🔊 Discord](https://discord.gg/ss14). This is the most active community of developers for Space Station 14. Ask a question on the General or Help channel.
-[📲 FAQ](https://spacestation14.io/about/faq/)
-[🎮 Forums](https://forum.spacestation14.io/)
-```
+
+
 
 This wiki is written in [Markdown](https://docs.requarks.io/en/editors/markdown) using `mdbook`. You can view our README.md for the docs site [here](https://github.com/space-wizards/docs/blob/master/README.md), which has useful information.
 

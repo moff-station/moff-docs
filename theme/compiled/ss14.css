@@ -5,12 +5,12 @@
 /* allow wider content since no navvybar buttons */
 :root {
   --content-max-width: 850px;
-  --sidebar-active: #e23229;
+  --sidebar-active: #7d12ae;
 }
 
 /* title text on top of every page */
 .menu-title {
-  color: #e23229;
+  color: #7d12ae;
 }
 
 @media only screen and (min-width: 1366px) {
