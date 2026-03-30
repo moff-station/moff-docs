@@ -3,13 +3,16 @@
 
 /* allow wider content since no navvybar buttons */
 :root {
+    --bg: #0f0f0f;
     --content-max-width: 850px;
-    --sidebar-active: #e23229;
+    --sidebar-active: #7d12ae;
+    --sidebar-spacer: #4d4d4d;
+    --sidebar-bg: #050505;
 }
 
 /* title text on top of every page */
 .menu-title {
-    color: #e23229;
+    color: #7d12ae;
 }
 
 @media only screen and (min-width: 1366px) {
@@ -77,5 +80,5 @@ main h3 {
 }
 
 .navy code {
-    background: #0f0f12 !important;
+    background: #050505 !important;
 }
