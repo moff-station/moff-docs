@@ -15,7 +15,7 @@ Players should become invested in the station and it's continued existence over 
 The disaster aspect of a round should not all hinge on a single event. Disasters should be reoccurring events and interface with the mechanics of the various departments across the station. The round should end when the effects of these disasters compound and create a situation that is difficult to overcome.
 
 ``` admonish note
-The station should have a decent amount of vitality, there should not be parts of the station which warrant ending the round upon their destruction alone, they should be able to be reconstructed, substituted, etc.
+The station should have a decent amount of vitality, there should not be parts of the station which warrant ending the round upon their destruction alone, infrastucture should be able to be reconstructed, substituted, etc.
 
 Additionally, the recovery effort should be made fun where possible.
 ```
