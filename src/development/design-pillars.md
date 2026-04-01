@@ -14,21 +14,25 @@ Players should become invested in the station and its continued existence over t
 
 The disaster aspect of a round should not all hinge on a single event. Disasters should be reoccurring and interface with the mechanics of the various departments. The round should end when the effects of these disasters compound and create a situation that is too difficult for the crew to overcome.
 
+```admonish note
 The station should have vitality, there should be no small part of the station which warrants evacuation upon its destruction alone, infrastructure should be able to be reconstructed, substituted, etc.
 
 Additionally, the recovery effort should be made fun where possible.
 ```
 
-## Collaborative story Generator
+## Collaborative Story Generator
 
 The game is not about winning or losing; it's about creating an interesting story.
 
-No round should feel the same as the last; there should be a large amount of variety and randomness, both impactful and small, to give each round an authentic feeling.
+Good stories happen when players are emerged in unfamiliar situations, and are able to create interesting, bizarre, or unique outcomes. When situations are predictable or solved the same way every time, players stop engaging with the scenario and instead follow learned patterns.
 
-Similarly, features should be designed to encourage players to treat every situation with nuance. For example, a single event could have many variations, which influence how the crew responds. 
+This is to say, every round should feel unique and different from the last. 
+- Variation and randomness should play a big role in defining each round. 
+- Avoid designing systems which have consistent outcomes or solutions. 
+- Players should have to use discernment when engaging with what's happening to the station.
+
 
 ``` admonish warning
-Avoid designing events which have consistent outcomes or solutions.
 For example, yelling "nukies!!" on the radio, followed by the crew arming up and responding may be interesting the first couple times, but becomes repetative, and doesn't make for an interesting story.
 ```
 
