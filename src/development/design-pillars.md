@@ -10,19 +10,18 @@ All elements of the game should be social in some manner. There should not be el
 
 ## Round Investment / Event-Driven
 
-Players should become invested in the station and it's continued existence over the course of a round. This should be integrated into the job gameplay loop, and can be done by creating meaningful accomplishments that are not easily repeated across rounds. While there should be downtime, no job should feel like their role on the station is "over", there should be a wide array of things for them to work towards.
+Players should become invested in the station and its continued existence over the course of a round. This should be integrated into the job gameplay loop, and can be done by creating meaningful accomplishments that are not easily repeated across rounds. While there should be downtime, no job should feel like their role on the station is "over", there should be a wide array of things for them to work towards.
 
-The disaster aspect of a round should not all hinge on a single event. Disasters should be reoccurring and interface with the mechanics of the various departments. The round should end when the effects of these disasters compound and create a situation that is difficult for the crew to overcome.
+The disaster aspect of a round should not all hinge on a single event. Disasters should be reoccurring and interface with the mechanics of the various departments. The round should end when the effects of these disasters compound and create a situation that is too difficult for the crew to overcome.
 
-``` admonish note
-The station should have vitality, there should not be parts of the station which warrant evacuation upon their destruction alone, infrastucture should be able to be reconstructed, substituted, etc.
+The station should have vitality, there should be no small part of the station which warrants evacuation upon its destruction alone, infrastructure should be able to be reconstructed, substituted, etc.
 
 Additionally, the recovery effort should be made fun where possible.
 ```
 
-## Story Generator
+## Collaborative story Generator
 
-The game is not about winning or losing, its about creating an interesting story.
+The game is not about winning or losing; it's about creating an interesting story.
 
 No round should feel the same as the last; there should be a large amount of variety and randomness, both impactful and small, to give each round an authentic feeling.
 
