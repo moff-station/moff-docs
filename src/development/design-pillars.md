@@ -24,7 +24,7 @@ Additionally, the recovery effort should be made fun where possible.
 
 The game is not about winning or losing; it's about creating an interesting story.
 
-Good stories happen when players are emerged in unfamiliar situations, and are able to create interesting, bizarre, or unique outcomes. When situations are predictable or solved the same way every time, players stop engaging with the scenario and instead follow learned patterns.
+Good stories happen when players are immersed in unfamiliar situations, and are able to create interesting, bizarre, or unique outcomes. When situations are predictable or solved the same way every time, players stop engaging with the scenario and instead follow learned patterns.
 
 This is to say, every round should feel unique and different from the last. 
 - Variation and randomness should play a big role in defining each round. 
