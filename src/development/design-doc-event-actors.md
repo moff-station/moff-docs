@@ -3,7 +3,7 @@ Event Actors
 
 Event Actors are a role where players are assigned to pools to play multiple events over the course of a round, rather than just one. Additionally, players can vote from a limited list of events to spawn as, as well as the objectives and variations to choose from.
 
-For example, in a traditional random shuttle event, players choose a ghost role, fly to the station, and then effectively become part of the crew (if anyone picks them up at all).
+For example, in a traditional random shuttle event, players choose a ghost role, fly to the station, and then effectively become part of the crew (if anyone picks them at all).
 
 In the new system, a group of event actors will be pre-assigned to the event. They choose what they want to spawn in as, arrive at the station with an objective in mind, and whenever they get bored, they can leave the station, making themselves available for future events.
 
