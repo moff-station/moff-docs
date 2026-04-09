@@ -8,12 +8,12 @@ You can ask around on the discord if you would like someone to make your figurin
 ### What you'll need to make a figurine
 
 - **Your figurine name.** Written from the perspective of someone who doesn't know your character
-:white_check_mark: Slime Chief Engineer Figurine
-:white_check_mark: Green Lizard Bartender Figurine
-:white_check_mark: Tall Janitor Figurine
-:x: Tania Buttersworth Figurine
-:x: Extremely Cool Lizard Figurine
-:x: That Guy's Figurine
+:white_check_mark: slime Chief Engineer figurine
+:white_check_mark: green lizard bartender figurine
+:white_check_mark: tall janitor figurine
+:x: Tania Buttersworth figurine
+:x: extremely cool lizard figurine
+:x: that guy's figurine
 
 - **Your figurine description.** Again, written from the perspective of someone who doesn't know your character. Should start with "A figurine depicting..."
 :white_check_mark: "A figurine depicting a pink slime chief engineer, with numerous tentacles and a tiny fire axe."
