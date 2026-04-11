@@ -16,7 +16,7 @@ This would replace the current system of antags, as well as ghost roles to an ex
 
 - The players will then play out their event, leaving their impact on the round.
 
-- Through creative means, these players will end up leaving, or be encouraged to remove themselves from the round, at which point they will be given the opportunity to continue playing more events.
+- Through creative means, these players will end up leaving the station, at which point they will be given the opportunity to continue playing more events.
   - If a player for whatever reason doesn't end up rotating themselves back out, an opportunity will be given for ghosts or on-station players to be added to the pool to compensate.
 
 ## Advantages/Reasoning
