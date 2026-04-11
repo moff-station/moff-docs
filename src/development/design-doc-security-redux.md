@@ -5,6 +5,7 @@ Security Redux
 ## Scope of Changes
 
 This reworks Security to remove all stuns from their arsenal.
+
 Their main non-lethal weapon will be a (different, less effective) baton, which deals stun as well as a signifigant amount of blunt damage.
 
 
