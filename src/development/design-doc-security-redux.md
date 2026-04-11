@@ -1,23 +1,30 @@
 Security Redux
 ===============
 
+This reworks Security to remove all stuns from their arsenal.
 
 ## Scope of Changes
 
-This reworks Security to remove all stuns from their arsenal.
 
-Their main non-lethal weapon will be a (different, less effective) baton, which deals stun as well as a signifigant amount of blunt damage.
+Stun weapons such as the stun baton, disabler, and disabler SMG will be removed from the game entirely.
 
+Warden and HoS special weapons will receive reworks that do not revolve around stuns.
 
-## Reasoning
+Jobs which start with disablers will either have them removed or replaced with something else.
+
+Security will have a new baton with less stun, as well as a signifigant amount of blunt damage.
+
+Pacificst characters will have their pacifism trait removed upon rolling security
+
+## Rationale
 
 Specifically pertaining to stuns, there are several issues with how security is designed. Removing non-lethal options from security's arsenal will fix many of these problems.
 - The Stunmeta
   - The most common complaint with stuns is they are the best response to almost any situation. No matter how well equiped someone is, stuns can easily incapacitate someone in a 1v1 better than any firearm can. Nerfing stuns to remidate this will just make the life of a security player harder, and adding any form of stun resist will open up another vector of balance and complexity.
 
 - Lack of consequence
-  - Using stuns on someone has no weight or consequence. There is no reason for sec to hear someone out or assess a situation before stunning them, if they are innocent then they can be released at no loss to them, and if they're guilty then their actions can be justified. 
-  - If security's only option is harmful they will have to think about their actions and their consequences more before attacking someone, otherwise they will end up creating more work for themselves. 
+  - Using stuns on someone has no weight or consequence. There is no reason for sec to hear someone out, roleplay, or assess a situation before stunning them. With stuns, if the suspect is innocent then they can be released at no loss to them, and if they're guilty then their actions can be justified. 
+  - If security has only harmful they will have to think about their actions and their consequences more before attacking someone, otherwise they will end up creating more work for themselves. Things such as whether theyre actually guilty, having to take them to medical, whether their use of force is justified are all now real factors in descision making.
 
 - Ranging expectations
   - There is a wide range of ideas and expectations about how security is supposed to operate. When these ideas come into conflict amongst different players, its becomes a source of OOC conflict. While the security playstyle shouldn't be a monolith this narrows the expectation to be something like a Pinkerton-style police force, where people think "Security will beat the crap out of you if youre breaking the law, or maybe worse if youre bad enough."
@@ -37,3 +44,6 @@ Specifically pertaining to stuns, there are several issues with how security is 
   - This version of security is far more forceful, consider allowing normal crew to retaliate the same way they would any other crewmember (This should not turn full fledged revolts, however). 
   - Although mald should decrease in the long-term, the culture shock may cause mald in the short term, admins should watch out to make sure people arent malding at security.
   - Admins should give security leeway in how they handle arrests. However, they should watch out to make sure nobody is pushing their authority too far.
+
+  ## Credit
+  Inspired by [Funky Station's doc](https://github.com/funky-station/docs/pull/60) of the same name.
