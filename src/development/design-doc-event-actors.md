@@ -1,23 +1,14 @@
 Event Actors
 ===============
 
-Event Actors are a role where players are assigned to pools to play multiple events over the course of a round, rather than just one. Additionally, players can vote from a limited list of events to spawn as, as well as the objectives and variations to choose from.
-
-For example, in a traditional random shuttle event, players choose a ghost role, fly to the station, and then effectively become part of the crew (if anyone picks them at all).
-
-In the new system, a group of event actors will be pre-assigned to the event. They choose what they want to spawn in as, arrive at the station with an objective in mind, and whenever they get bored, they can leave the station, making themselves available for future events.
-
-This would replace the current system of antags, as well as ghost roles to an extent.
+Event Actors as a system are intended to overhaul mid-round events, by allowing a pool of players play multiple events over the course of the round. Traditional mid-round events suffer from inconsistency; players often don’t take the roles, and even when they do, events with multiple roles are rarely fully staffed. Event Actors address and expand on this by ensuring mid-round events are filled consistently, allowing them to become an important driving force of a round.
 
 ## Roundflow
-- A ratio of players will be set aside to fill the roles of the round's events.
 
-- This pool of players will get to vote from a list of events that they can come in as. They will also get the chance to vote on various details of their event, such as what their objective will be.
+Event Actors work by assigning a certain ratio of players as Event Actors. These players can vote on which event they want to spawn as, what their objectives will be, and miscellaneous variations surrounding their role. Once everything is voted on, they are entered into the round by the event scheduler. They then play out their role in the round before exiting, returning them to the pool for future events.
 
-- The players will then play out their event, leaving their impact on the round.
-
-- Through creative means, these players will end up leaving, or be encouraged to remove themselves from the round, at which point they will be given the opportunity to continue playing more events.
-  - If a player for whatever reason doesn't end up rotating themselves back out, an opportunity will be given for ghosts or on-station players to be added to the pool to compensate.
+Events based on the event actor system differ from normal events mainly in that they're designed to interact with the station for a limited period of time, this is so that once an event has reached its natural conclusion, the people involved can leave the station and move onto new events which keep the experience fresh for both them and the crew.
+- There should be contingencies for when the actors do not rejoin the pool, their spots can be given to either ghost roles or even other players still on the station.
 
 ## Advantages/Reasoning
 
