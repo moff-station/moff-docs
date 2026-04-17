@@ -15,7 +15,8 @@ Development
 ===================
 
 ----------------------
-- [todo](404.md)
+- [Design Pillars](development/design-pillars.md)
+- [Design Documents](development/design-doc-main.md)
 
 Rules and Policy
 ===============
