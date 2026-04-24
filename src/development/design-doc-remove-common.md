@@ -9,7 +9,10 @@ There are several ways which greencomms hinders gameplay:
 
 - Information spread
   - With unrestricted access to greencomms, station coordination is instantaneous and concise. While having the ability to call out any issue in a moments notice may seem beneficial at a surface level, this level of clarity impedes on the ability of station events to develop, reducing their impact value. With the removal of greencomms, events will now be given more opportunity to advance, without the risk of instant responses from the crew.
-
+    
+``` admonish example
+A common complaint is that any "John Tider" can callout an antag over the radio the moment they see them, and the entire crew will fall into a learned response based on whatever was called out. This is undesirable because it leads into very repetitive gameplay, leaving very little room for nuance, stealth, or any plan which deviates from the norm. This in turn incentivizes antags against taking creative liberties out of fear of being caught.
+```
 
 - Social and Departmental interaction
   - Common radio allows crewmembers to isolate themselves while performing their job. Why physically go to a department or a person and ask for what you need when you can just radio them? Without greencomms, departments will need to get more involved with each other in order to collaborate, which will in turn inspire more interactions and roleplay.
