@@ -15,11 +15,28 @@ Development
 ===================
 
 ----------------------
-- [Design Pillars](development/design-pillars.md)
-- [Design Documents](development/design-doc-main.md)
+- [Core Design]()
+  - [Design Pillars](development/design-pillars.md)
+  - [Design Documents](development/design-doc-main.md)
+
+- [Departments]()
+  - [Cargo]()
+    - [Atmos]()
+  - [Command]()
+  - [Engineering]()
+  - [Medical]()
+  - [Science]()
+  - [Security]()
+  - [Service]()
+  - [Silicon]()
+
 
 Rules and Policy
 ===============
 
 ----------------------
-- [todo](404.md)
+- [Server Rules]()
+- [Discord rules]()
+- [Moffstation Staff]()
+  - [Admin Policy]()
+  - [Maintainer Policy]()
