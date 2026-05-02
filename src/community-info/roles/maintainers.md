@@ -104,7 +104,7 @@ Firstly, because maintainers are given access to privileges which can obliterate
 member of the Moffstation community. Secondly, a maintainer candidate must show capability in the skills and responsibilities described
 above. Not all maintainers will check all boxes, but a candidate needs to demonstrate enough prospective value to be worth considering.
 
-If those two qualities exist in one person, that person can ask to be considering to be a maintainer. Right now, there's no process and
-we've taken on maintainers as they have shown interest. The best way to be considered is to ask a current maintainer or the projct owner,
+If those two qualities exist in one person, that person can ask to be considered for a maintainer position. Right now, there's no process and
+we've taken on maintainers as they have shown interest. The best way to be considered is to ask a current maintainer or the project owner,
 at which point the existing maintainers will convene and decide. If they agree, congratulations, you're a maintainer now; just hang on while
 the project lead provisions your access.
