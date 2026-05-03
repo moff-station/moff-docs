@@ -17,12 +17,12 @@ change request:
   - Does this fit into our design pillars?
   - Is this balanced?
   - Does the player base want this?
-- Technical correctness:
+- Technical Implementation:
   - Is this the right way to implement this?
   - Does this changeset use best practices and modern techniques?
   - Is this changeset's complexity maintainable going forward?
   - Will we need to change this in the future, and if so, is it worth it?
-- Correctness of contribution requirements:
+- adherence of contribution guidelines:
   - Does this use namespacing / guards correctly?
   - Is the PR template adequately filled out?
   - Is the changelog correct and useful?
@@ -47,7 +47,7 @@ all. Maintainers investigate, diagnose and fix these issues to ensure contributi
 
 #### Player Issue Triage
 
-It turns out Space Station 14 is not the most polished game. Players will find issues, and it falls on maintainers to fix these issues.
+Space Station 14 is an open source project, and as a result may encounter strange and unforeseen problems regularly. Players will find issues, and it falls on maintainers to fix these issues.
 Maintainers should review bug reports to determine if they are an upstream issue or a bug in Moffstation, and if it is a bug in Moffstation,
 maintainers should log it as a GitHub issue and/or fix it. Ideally, contributors fix issues with their own contributions, but it falls on
 maintainers to more immediately resolve issues which require speedy resolution. Sometimes the best resolution is a judicious reversion of a
