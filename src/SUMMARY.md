@@ -11,6 +11,9 @@ Community Info
 - [Personal Item Guidelines](community-info/personal-items.md)
 - [Figurine Guidelines](community-info/figurines.md)
 
+## Roles
+- [Maintainers](community-info/roles/maintainers.md)
+
 Development
 ===================
 
