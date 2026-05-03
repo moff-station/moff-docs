@@ -3,7 +3,7 @@
 ## Responsibilities
 
 Firstly, the everpresent caveat: all members of Moffstation staff are volunteers with no requirement to do anything.
-That being said, maintainers, well, maintain the technical product that is Moffstation involving input and care across
+That being said, maintainers maintain the technical product that is Moffstation involving input and care across
 various areas.
 
 #### Pull Request Reviews
@@ -34,9 +34,9 @@ to the codebase. By asking these questions and demanding good answers, the quali
 
 As of writing, Moffstation is a soft fork of Wizard's Den. This means we pull down most of what Wizard's Den does while tweaking
 some things like balance, and while adding or removing some other things which do not align with our design pillars or player
-desires. To maintain this, someone must `git merge` changes from Wizard's Den regularly. Anyone can do this, but historically, it
-has always been a maintainer as it's technically involved and the upstream merge PRs are virtually unreviewable, so they take
-some trust to merge.
+desires. To keep this up, a maintainer must `git merge` changes from Wizard's Den regularly. In theory, anyone can do this, but
+we require its performed by a maintainer as it's technically involved and the resulting PRs are virtually unreviewable,
+so they necessitate some trust to merge.
 
 #### Maintaining Build Stability
 
