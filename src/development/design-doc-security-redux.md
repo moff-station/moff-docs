@@ -37,7 +37,7 @@ Specifically pertaining to stuns, there are several issues with how security is 
 
 - Borgs
   - Security's relationship with borgs will be greatly altered, as they will no longer be able to aid sec in making arrests under most circumstances.
-  - Consider altering law one to remove "or through inaction" so that borgs are not explicitly set against security.
+  - Consider allowing alternative lawsets at round start to ease this tension, or another similar solution.
 
 - Crew Relations
   - This is not a pass for security to shoot wanted people unprovoked. Although they can be used on people who are resisting, running, or known to be an active threat.
