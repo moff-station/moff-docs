@@ -20,6 +20,7 @@ Development
 ----------------------
 - [Design Pillars](development/design-pillars.md)
 - [Design Documents](development/design-doc-main.md)
+  - [Greencomms Removal](development/design-doc-remove-common.md)
 
 Rules and Policy
 ===============
