@@ -12,8 +12,6 @@ All elements of the game should be social in some manner. There should not be el
 
 Players should become invested in the station and its continued existence over the course of a round. This should be integrated into the job gameplay loop, and can be done by creating meaningful accomplishments that are not easily repeated across rounds. While there should be downtime, no job should feel like their role on the station is "over", there should be a wide array of things for them to work towards.
 
-The disaster aspect of a round should not all hinge on a single event. Disasters should be reoccurring and interface with the mechanics of the various departments. The round should end when the effects of these disasters compound and create a situation that is too difficult for the crew to overcome.
-
 ```admonish note
 The station should have vitality, there should be no small part of the station which warrants evacuation upon its destruction alone, infrastructure should be able to be reconstructed, substituted, etc.
 
