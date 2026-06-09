@@ -22,6 +22,10 @@ Development
 - [Design Documents](development/design-doc-main.md)
   - [Greencomms Removal](development/design-doc-remove-common.md)
 
+Guides
+------
+- [How to get GitHub workflow integration test failures' full logs](development/guides/getting-gha-test-results.md)
+
 Rules and Policy
 ===============
 
