@@ -19,11 +19,12 @@ Development
 
 ----------------------
 - [Design Pillars](development/design-pillars.md)
-- [Design Documents](development/design-doc-main.md)
-  - [Greencomms Removal](development/design-doc-remove-common.md)
+- [Design Documents](development/designs/design-doc-main.md)
+  - [Greencomms Removal](development/designs/design-doc-remove-common.md)
 
 Guides
 ------
+- [Coding Conventions](development/guides/conventions.md)
 - [How to get GitHub workflow integration test failures' full logs](development/guides/getting-gha-test-results.md)
 
 Rules and Policy
