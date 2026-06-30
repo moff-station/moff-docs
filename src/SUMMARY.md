@@ -26,6 +26,7 @@ Guides
 ------
 - [Coding Conventions](development/guides/conventions.md)
 - [How to get GitHub workflow integration test failures' full logs](development/guides/getting-gha-test-results.md)
+- [Art Style Guide](development/guides/moffstation-style-guide.md)
 
 Rules and Policy
 ===============
