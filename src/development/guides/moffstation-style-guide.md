@@ -36,7 +36,7 @@ https://crystallpunk--14-github-io.translate.goog/crystallpunk-docs/CrystallEdge
 ## Getting Shapes Correct
 Here are some things to be sure to consider when making sprites. Avoid rough lines as this can destroy the illusion of roundness Avoid making >1px lines as this does not fit anything in the game currently.
 
-<img src="../assets/graphicalprojections.png" width=450 tyle="margin-left:auto;margin-right:auto;display:block;"/>
+<img src="../../assets/graphicalprojections.png" width=450 tyle="margin-left:auto;margin-right:auto;display:block;"/>
 
 ## Colours, Colors & Hues
 There is a Moffstation Current Colour Palette, I would recommend trying to stay close to these colours if your not confident & avoid deviating to much from the palette otherwise.
@@ -45,7 +45,7 @@ When selecting colours, I would recommend having colours get more saturated the 
 
 Remember to Hue shift! Even though it isn’t realistic for something to have as though it is under a blue light when we have fluorescent bulbs however, it makes it much more vibrant, interesting & (most importantly) epic!
 
-<img src="../assets/moffpalette.png" width=500 tyle="margin-left:auto;margin-right:auto;display:block;"/>
+<img src="../../assets/moffpalette.png" width=500 tyle="margin-left:auto;margin-right:auto;display:block;"/>
 
 ## Shading Highlights & Shadows
 
