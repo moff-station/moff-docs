@@ -11,11 +11,16 @@ Community Info
 - [Personal Item Guidelines](community-info/personal-items.md)
 - [Figurine Guidelines](community-info/figurines.md)
 
+## Roles
+- [Maintainers](community-info/roles/maintainers.md)
+
 Development
 ===================
 
 ----------------------
-- [todo](404.md)
+- [Design Pillars](development/design-pillars.md)
+- [Design Documents](development/design-doc-main.md)
+  - [Greencomms Removal](development/design-doc-remove-common.md)
 
 Rules and Policy
 ===============
