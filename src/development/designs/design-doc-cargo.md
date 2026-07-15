@@ -1,23 +1,23 @@
 Cargo and Departmental Economy
 ==============================
 
-This proposal details a rework of the cargo department and using money as a vector of roleplay/gameplay in all departments.
+This proposal details a rework of the cargo department and the use of money as a vector of roleplay/gameplay in all departments.
 
 ## Preface
 
-Right now, cargo as a department as well as the economy lies in a very bad spot. Money is a pointless resource, as it can be produced in abundance, there is a lack of meaningful things to spend it on. Materials as well as a few others are common purchases, but if salvage does a good enough job you end up sitting on a pile of money (which the only really interesting thing you can do with is gamble). 
+Right now, cargo as a department, as well as the economy, lies in a very bad spot. Money is a pointless resource, as it can be produced in abundance, and there is a lack of meaningful things to spend it on. Materials, as well as a few others, are common purchases, but if salvage does a good enough job you end up sitting on a pile of money (the only really interesting thing you can do with which is gamble).
 
-Certain departments gameplay tends to be completely reactive; Medical, Engineering, and Security all rely upon something to go wrong in order to have interesting rounds or even something to do at all. This is a bad state of affairs, as it's hard to get people invested in a specific round when their gameplay only consists off of fighting off bad things from happening, rather than potentially building towards something.
+Certain departments' gameplay tends to be completely reactive; Medical, Engineering, and Security all rely upon something to go wrong in order to have interesting rounds, or even something to do at all. This is a bad state of affairs, as it's hard to get people invested in a specific round when their gameplay only consists of fighting off bad things from happening, rather than potentially building towards something.
 
 The jobs that actually have something to do are often antisocial, which goes against one of our stated goals of making jobs more involved in social interaction, and not designing them around isolation.
 
-Lastly, the ATS is a problem. It is a major target for antagonistic behavior that is far separated from the consequences of doing something on station. Why make a secret room or base in maints when you can stash things in the backroom of ATS that nobody ever checks? If your goal is to destroy the station, the ATS is also an obvious target, you can cut off the station from any further resources at basically no risk. Also, it being considered part of the station in code causes many bugs. There are many hacky solutions that are employed to try and make these things not the case, but I think a total rethink of it is in order. 
+Lastly, the ATS is a problem. It is a major target for antagonistic behavior that is far separated from the consequences of doing something on station. Why make a secret room or base in maints when you can stash things in the backroom of ATS that nobody ever checks? If your goal is to destroy the station, the ATS is also an obvious target; you can cut off the station from any further resources at basically no risk. Also, it being considered part of the station in code causes many bugs. There are many hacky solutions that are employed to try and make these things not the case, but I think a total rethink of it is in order.
 
 ## Changes
 
 I think we can kill 4 birds with one stone here, as these problems are in many ways interlinked.
 
-### Departmental Money-Making and expenitures
+### Departmental Money-Making and Expenditures
 The solution looks something like
 Each department:
 - Has its own way of making money
@@ -32,13 +32,13 @@ These things should often include but are not limited to:
 
 Money making features should not:
 - Encourage a role to become more isolated
-- Consume enough of a role's attention to where they are unable focus on other things
+- Consume enough of a role's attention that they are unable to focus on other things
 
 For each department, here are some examples of potential sources of income that meet the requirements. These are by no means final or their exclusive ways, but they follow the above guidelines
 
 Engi:
-- Selling power, encourages producing more power than simply what is necessary for the station.
-- Atmos gets orders for large quantities of certain gasses.
+- Selling power — encourages producing more power than is simply necessary for the station.
+- Atmos gets orders for large quantities of certain gases.
 
 Science:
 (Both of these already exist somewhat)
@@ -83,7 +83,7 @@ Basis of how cargo will work is the following
 - Other departments will sell their products (where applicable) to the market through cargo (cargo will take a small cut of this)
 
 
-- Cargo's job then becomes to fulfill orders that are given to them from other department, either through making market purchases that they then resell to the department, or through the supplying the order using their own stock.
+- Cargo's job then becomes to fulfill orders that are given to them from other departments, either through making market purchases that they then resell to the department, or through supplying the order using their own stock.
 
 This turns cargo more into a logistics operation, rather than doing random fetch quests. This also makes their job more purposeful, as they have to coordinate and interact with the station intimately, rather than leave a yellow note on someone's desk.
 
