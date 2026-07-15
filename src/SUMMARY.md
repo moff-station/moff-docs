@@ -21,6 +21,7 @@ Development
 - [Design Pillars](development/design-pillars.md)
 - [Design Documents](development/designs/design-doc-main.md)
   - [Greencomms Removal](development/designs/design-doc-remove-common.md)
+  - [Cargo Rework](development/designs/design-doc-cargo.md)
 
 Guides
 ------
