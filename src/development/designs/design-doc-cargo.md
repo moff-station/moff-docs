@@ -24,7 +24,7 @@ Each department:
 - Has Costs they need to cover to keep the department running
 - Having the above things interface with cargo where possible
 
-The way departments should make money should include behavior we wish to encourage with the department.
+The way departments should make money should include behavior we wish to encourage.
 These things should often include but are not limited to:
 - A mechanic, feature, or behavior in the department that is underutilized or unexplored
 - A behavior that is social or roleplay oriented
