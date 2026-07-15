@@ -37,7 +37,8 @@ Money making features should not:
 For each department, here are some examples of potential sources of income that meet the requirements. These are by no means final or their exclusive ways, but they follow the above guidelines
 
 Engi:
-- Selling power — encourages producing more power than is simply necessary for the station.
+- Selling power
+  - encourages producing more power than is simply necessary for the station.
 - Atmos gets orders for large quantities of certain gases.
 
 Science:
