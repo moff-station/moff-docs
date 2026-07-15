@@ -33,6 +33,7 @@ These things should often include but are not limited to:
 Money making features should not:
 - Encourage a role to become more isolated
 - Consume enough of a role's attention to where they are unable focus on other things
+
 For each department, here are some examples of potential sources of income that meet the requirements. These are by no means final or their exclusive ways, but they follow the above guidelines
 
 Engi:
