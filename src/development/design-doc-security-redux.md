@@ -33,6 +33,9 @@ Specifically pertaining to stuns, there are several issues with how security is 
   - The question has been raised a few times about "when can security carry X equipment" with the answer being "when it makes IC sense" which is a bit of a subjective and unsatisfactory answer.
   - If their arsenal is non-lethal, then a lot more of the armory can be considered upgrades to their base equipment. This doesn't mean that they can or should open-carry rifles on green, but it's a step towards having a more clear-cut line.
 
+- Escalation landmines
+  - Escalation is also a common landmine for security players, both socially and rules-wise. Even though stuns are often the better option, security players are often chastised and nitpicked by other players for their use of lethals. They also have to worry about whether they're actually allowed to use firearms at all. By making lethals the primary option, it mitigates both of these issues.
+
 ## Considerations
 
 - Borgs
