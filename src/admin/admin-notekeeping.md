@@ -34,7 +34,7 @@ They claimed they weren't of aware of the rule, gave them a warning not to do it
 Generally, there are three cases where we will apply a ban to someone. These are not the only cases where a ban is appropriate, but they are the ones that are most common.
 - Egregious violations of the rules. Generally given to things that are zero-tolerance or intentionally malicious.
 - To "problem players", people who have displayed frequent rulebreaks or bad behavior, can be among a wide variety of rules.
-- Repeated violations of the same rule, when an person violates the same rule consistently.
+- Repeated violations of the same rule, when a person violates the same rule consistently.
 
 If you are uncertain whether a ban should be dealt to someone, please consult the admin chat on discord.
 
