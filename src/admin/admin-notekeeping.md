@@ -2,7 +2,7 @@
 # New Admin Noting Policy
 ## Preface
 A traditional noting/strike policy is insufficient for Moffstation due to a couple of factors:
-- In a small community like Moffstation, Admins are afraid to leave notes because they are seen as punishment by players, which may end up effecting their reputation.
+- In a small community like Moffstation, admins are sometimes afraid to leave notes because they are seen as punishment by players, which may end up effecting their reputation.
 - A strike system is better suited for large servers where it is harder to track specific players on an individual basis.
 
 This details a system of using notes as admin notekeeping rather than as strike system, which entails creating them far more frequently. This method will leverage our small population and our ability to track players on an individual basis, which will improve our ability to handle punishments greatly.
