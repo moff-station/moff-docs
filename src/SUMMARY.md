@@ -32,4 +32,17 @@ Rules and Policy
 ===============
 
 ----------------------
-- [todo](404.md)
+- [Player Expectations](rules/MoffRules.md)
+  - [Out Of Character](rules/MoffR1OOC.md)
+  - [Metagaming](rules/MoffR2Metagaming.md)
+  - [Powergaming](rules/MoffR3Powergaming.md)
+  - [Roleplay and Characters](rules/MoffR4RP.md)
+  - [Death and New Life](rules/MoffR5DeathAndLife.md)
+  - [Safe Havens](rules/MoffR6EOR.md)
+  - [Crew](rules/MoffR7Crew.md)
+  - [Antagonists](rules/MoffR8Antags.md)
+- [Admin Code of Conduct](admin/admin-coc.md)
+  - [Notekeeping and Bans](admin/admin-notekeeping.md)
+  - [Privacy and Opsec](admin/admin-opsec.md)
+  - [Trial Admins](admin/admin-trialadmins.md)
+  - [Admemes and Admin Intervention](admin/admin-admemes.md)
