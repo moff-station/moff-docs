@@ -1,4 +1,3 @@
-(currently a proposal)
 # Admin Code of Conduct
 These are the specific rules for admins and admining. __**Admins are expected to know and follow these rules to the best of their ability.**__
 
