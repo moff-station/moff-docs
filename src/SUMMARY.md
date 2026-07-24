@@ -11,11 +11,22 @@ Community Info
 - [Personal Item Guidelines](community-info/personal-items.md)
 - [Figurine Guidelines](community-info/figurines.md)
 
+## Roles
+- [Maintainers](community-info/roles/maintainers.md)
+
 Development
 ===================
 
 ----------------------
-- [todo](404.md)
+- [Design Pillars](development/design-pillars.md)
+- [Design Documents](development/designs/design-doc-main.md)
+  - [Greencomms Removal](development/designs/design-doc-remove-common.md)
+
+Guides
+------
+- [Coding Conventions](development/guides/conventions.md)
+- [How to get GitHub workflow integration test failures' full logs](development/guides/getting-gha-test-results.md)
+- [Art Style Guide](development/guides/moffstation-style-guide.md)
 
 Rules and Policy
 ===============
