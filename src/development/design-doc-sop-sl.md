@@ -39,12 +39,12 @@ Neither of these aligns with our pillars of design at the time of writing, as we
 
 In the first case, if you are not allowed to resist the law within the conflict that arises, you are by the rules forced to accept the consequences of breaking it; if you are forced to accept the consequences, then there is only negative incentive to follow SOP, which is not interesting conflict.
 
-In the second case, this hampers niche, experimental, or even funny ways that a department can conduct its duties. If we wish to support a wider range of playstyles in each department in the future, laying out SOP in that fashion would be detrimental.
+In the second case, this hampers niche, experimental, and funny ways that a department can conduct its duties. If we wish to support a wider range of playstyles in each department in the future, laying out SOP in that fashion would be detrimental.
 
 ## Purpose of Security and Space Law
 The purpose of Security is to enforce Space Law on the station. Space Law is a set of laws created by Nanotrasen to promote efficiency and productivity, minimize damage to NT property (including personnel), and prevent outside organizations from interfering with or spying on operations.
 
-The purpose of space law is to provide security with guidelines and restrictions, and a way of combatting people who step out of line, including antags, unruly crew members, and people from outside organizations.
+The purpose of space law is to provide security with guidelines and restrictions, and a way of combatting people who step out of line, including antags, unruly crew members, and people from outside organizations. It is the basis for much of their gameplay loop.
 
 Space Law should be as concise and precise as possible; it deals with many rules-heavy interactions and carries the weight of most of them, so it should be easy to understand for both security and others.
 
