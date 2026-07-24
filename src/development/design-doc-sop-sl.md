@@ -17,7 +17,7 @@ SoP in Moffstation should help reduce friction and provide guidelines around cer
 - When the station's nuclear fission explosive should be armed
 - When and how trials should be conducted
 
-Note that all of these are examples of things the crew may sometimes wish to perform, but are restricted from by a lack of standards and expectations around how and when these things should be occurring. SoP serves as a guide so that everyone can be on the same page, as well as a guide for designing features to make these actions easier to perform.
+All of these are examples of things the crew may sometimes wish to perform, but are restricted from by a lack of standards and expectations around how and when these things should be occurring. SoP serves as a guide so that everyone can be on the same page, and for designing features to make these actions easier to perform.
 
 ### The following are examples of when SOP should NOT be used
 
@@ -26,7 +26,7 @@ Note that all of these are examples of things the crew may sometimes wish to per
 - Instructions on how to play reporter properly
 - Responsibilities of the Engineering Department
 
-Note how all of these don't provide new avenues or ways of handling a situation, but rather codify the existing expectations of certain roles, and create conflict around deviation from them.
+All of these don't provide new avenues or ways of handling a situation, but rather codify the existing expectations of certain roles, and create conflict around deviation from them.
 
 ### The Tradeoff
 Like many things, there is a tradeoff to implementing SOP in this fashion.
@@ -44,7 +44,11 @@ In the second case, this hampers niche, experimental, or even funny ways that a 
 ## Purpose of Security and Space Law
 The purpose of Security is to enforce Space Law on the station. Space Law is a set of laws created by Nanotrasen to promote efficiency and productivity, minimize damage to NT property (including personnel), and prevent outside organizations from interfering with or spying on operations.
 
+The purpose of space law is to provide security with guidelines and restrictions, and a way of combatting people who step out of line, including antags, unruly crew members, and people from outside organizations.
+
 Space Law should be as concise and precise as possible; it deals with many rules-heavy interactions and carries the weight of most of them, so it should be easy to understand for both security and others.
+
+Normal crew should generally not be subject to being thrown in jail, unless they are truly stepping out of line. That is to say, there shouldn't be "tripwire" laws meant to get people just playing the game thrown in the brig.
 
 People should generally not be subjected to sitting around in a cell forever; it is not fun. Extremely long or permanent sentences, as well as execution, should be reserved for those who present a genuine risk to the station, or for serious criminals. Additionally, we should come up with ways for prisoners who have been sentenced to permanent confinement to exit the round outside of just cryoing, unless they wish to stay (they shouldnt be subjected to being bored in genpop for an hour unless they actually want to.).
 
