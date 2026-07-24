@@ -15,7 +15,7 @@ SoP in Moffstation should help reduce friction and provide guidelines around cer
 - Procedure for setting the station's alert level
 - When and how to promote or demote someone, both in command and normal positions
 - When the station's nuclear fission explosive should be armed
-- When and how trials should be conducted
+- When and how criminal trials should be conducted
 
 All of these are examples of things the crew may sometimes wish to perform, but are restricted from by a lack of standards and expectations around how and when these things should be occurring. SoP serves as a guide so that everyone can be on the same page, and for designing features to make these actions easier to perform.
 
