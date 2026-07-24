@@ -16,6 +16,8 @@ Security will have a new baton with less stun, as well as a significant amount o
 
 Pacifist characters will have their pacifism trait removed upon rolling security
 
+Rules and/or space law should be updated to include some form of "rules of engagement" as this will bear the weight of when or whether security is allowed to use lethal force on someone
+
 ## Rationale
 
 Specifically pertaining to stuns, there are several issues with how security is designed. Removing non-lethal options from security's arsenal will fix many of these problems.
