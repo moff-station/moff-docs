@@ -21,6 +21,7 @@ Development
 - [Design Pillars](development/design-pillars.md)
 - [Design Documents](development/design-doc-main.md)
   - [Greencomms Removal](development/design-doc-remove-common.md)
+  - [SOP and Space Law](development/design-doc-sop-sl.md)
 
 Rules and Policy
 ===============
