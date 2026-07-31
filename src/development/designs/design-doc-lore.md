@@ -22,8 +22,8 @@ Lore documents should be mostly self contained. They should not concern miscella
 
 There are decidedly 4 major factions:
 - Nanotrasen
-- The Syndicate and their member organizations
-- SolGov (Owners of earth and the Sol System)
+- The Syndicate and their constituents
+- SolGov
 - Galatic Liberation Front (Name pending but some sort of revolutionary faction, USSP deemed to memey(decide on something before you merge this))
 
 These main factions are not necessarily the *largest factions* in the setting. However, they are the ones most involved in the current situation with Nanotrasen.
