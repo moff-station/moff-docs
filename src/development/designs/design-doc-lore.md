@@ -24,7 +24,7 @@ There are decidedly 4 major factions:
 - Nanotrasen
 - The Syndicate and their constituents
 - SolGov
-- Galatic Liberation Front (Name pending but some sort of revolutionary faction, USSP deemed to memey(decide on something before you merge this))
+- Galactic Independence Coalition
 
 These main factions are not necessarily the *largest factions* in the setting. However, they are the ones most involved in the current situation with Nanotrasen.
 
