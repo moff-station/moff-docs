@@ -45,7 +45,7 @@ Specifically pertaining to stuns, there are several issues with how security is 
   - Consider allowing alternative lawsets at round start to ease this tension, or another similar solution.
 
 - Crew Relations
-  - This is not a pass for security to shoot wanted people unprovoked. Although they can be used on people who are resisting, running, or known to be an active threat.
+  - This is not a pass for security to shoot wanted people unprovoked. Security must still use escalation against people they are arresting.
   - This version of security is far more forceful, consider allowing normal crew to retaliate the same way they would any other crewmember (This should not turn full fledged revolts, however). 
   - Although mald should decrease in the long-term, the culture shock may cause mald in the short term, admins should watch out to make sure people aren't malding at security.
   - Admins should give security leeway in how they handle arrests. However, they should watch out to make sure nobody is pushing their authority too far.
