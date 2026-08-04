@@ -14,7 +14,6 @@ Jobs which start with disablers will either have them removed or replaced with s
 
 Security will have a new baton with less stun, as well as a significant amount of blunt damage.
 
-Pacifist characters will have their pacifism trait removed upon rolling security
 
 Rules and/or space law should be updated to include some form of "rules of engagement" as this will bear the weight of when or whether security is allowed to use lethal force on someone
 
@@ -40,8 +39,8 @@ Specifically pertaining to stuns, there are several issues with how security is 
 
 ## Considerations
 
-- Borgs
-  - Security's relationship with borgs will be greatly altered, as they will no longer be able to aid sec in making arrests under most circumstances.
+- Silicons
+  - Security's relationship with AI and cyborgs will be greatly altered, as they will no longer be able to aid sec in making arrests under most circumstances.
   - Consider allowing alternative lawsets at round start to ease this tension, or another similar solution.
 
 - Crew Relations
