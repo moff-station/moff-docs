@@ -24,18 +24,12 @@ Specifically pertaining to stuns, there are several issues with how security is 
   - The most common complaint with stuns is they are the best response to almost any situation. No matter how well equipped someone is, stuns can easily incapacitate someone in a 1v1 better than any firearm can. Nerfing stuns to remediate this will just make the life of a security player harder, and adding any form of stun resist will open up another vector of balance and complexity.
 
 - Lack of consequence
-  - Using stuns on someone has no weight or consequence. There is no reason for sec to hear someone out, roleplay, or assess a situation before stunning them. With stuns, if the suspect is innocent then they can be released at no loss to them, and if they're guilty then their actions can be justified. 
-  - If security has only harmful they will have to think about their actions and their consequences more before attacking someone, otherwise they will end up creating more work for themselves. Things such as whether they're actually guilty, having to take them to medical, whether their use of force is justified are all now real factors in decision making.
+  - Using stuns on someone has no weight or consequence. There is no reason for sec to hear someone out, roleplay, or assess a situation before stunning them. With stuns, if the suspect is innocent then they can be released at no loss to them, and if they're guilty then their actions can be justified. If there is an actively tense situation, stuns are a get-out-of-jail free card to ending the situation in their favor. Put simply, they are not fun to play against or conducive to two-sided roleplay with security,
 
-- Ranging expectations
-  - There is a wide range of ideas and expectations about how security is supposed to operate. When these ideas come into conflict amongst different players, its becomes a source of OOC conflict. While the security playstyle shouldn't be a monolith this narrows the expectation to be something like a Pinkerton-style police force, where people think "Security will beat the crap out of you if you're breaking the law, or maybe worse if you're bad enough."
-
-- Powergaming landmines
-  - The question has been raised a few times about "when can security carry X equipment" with the answer being "when it makes IC sense" which is a bit of a subjective and unsatisfactory answer.
-  - If their arsenal is non-lethal, then a lot more of the armory can be considered upgrades to their base equipment. This doesn't mean that they can or should open-carry rifles on green, but it's a step towards having a more clear-cut line.
-
-- Escalation landmines
-  - Escalation is also a common landmine for security players, both socially and rules-wise. Even though stuns are often the better option, security players are often chastised and nitpicked by other players for their use of lethals. They also have to worry about whether they're actually allowed to use firearms at all. By making lethals the primary option, it mitigates both of these issues.
+- Escalation
+  - Escalation is a common landmine for security players, both socially and rules-wise. Even though stuns are often the better option, security players are often chastised and nitpicked by other players for their use of lethals. 
+  - Additionally stuns, because they are considered non-lethals, are often deployed quite liberally in confrontations with security. This makes them difficult to roleplay conflict with; Stuns do not damage people, but are simultaneously extremely strong, allowing them to shut down any confrontation quickly and without consequence.
+  - The removal of stuns makes the ladder of escalation for security the same as everyone else, requiring more action on security's part before conducting an arrest with someone. This which makes security feel more organic.
 
 ## Considerations
 
