@@ -1,8 +1,6 @@
 Security Redux
 ===============
 
-This reworks Security to remove all stuns from their arsenal.
-
 ## Scope of Changes
 
 
