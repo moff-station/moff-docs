@@ -8,7 +8,7 @@ This concerns only official lore that will be introduced in-game, not people's c
 
 The goal of having lore is to give the station a setting, to make the "world" feel bigger than simply the station you are on, and to provide players with a prompt to work with and expand upon. In the case of antags, it makes them feel as though they are acting on behalf of a faction's interests, rather than just being "John Evil". Additionally, the line between antag and non-antag can be blurred, leading to more dynamic outcomes.
 
-This document will only briefly touch on certain lore specifics, serving primarily as a guide and a set of standards. Additionally, it will address lore as it pertains to game design, focusing primarily on antags, special roles, and theming.
+This document will only briefly touch on certain lore specifics, serving primarily as a guide and a set of standards. It will also address lore as it pertains to game design, focusing on antags, special roles, and theming.
 
 ## Writing Lore
 
