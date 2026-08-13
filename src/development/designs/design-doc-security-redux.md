@@ -12,8 +12,8 @@ Jobs which start with disablers will either have them removed or replaced.
 
 Security will have a new baton. This baton will still deal stun damage, but it scales based on how much blunt damage it is doing.
 
-Many niche and ill-defined rules about how security is supposed to engage will be concentrated into better and clearer escalation rules:
-Verbal -> Non-Lethal -> Lethal will apply to all non-antagonists, security included. This will allow security, command, and crew to escalate against each other, allowing for more forms of IC conflict between crew, which was previously restricted under self-antag rules.
+Many niche and ill-defined rules about how security is supposed to engage will be concentrated into escalation rules:
+Verbal -> Non-Lethal -> Lethal will apply to all non-antagonists, security included (though we spare flexibility for different levels if it makes sense for the situation). This will allow security, command, and crew to escalate against each other, allowing for more forms of IC conflict between crew, which was previously restricted under self-antag rules.
 
 ## Rationale
 
