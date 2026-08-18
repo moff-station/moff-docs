@@ -56,7 +56,7 @@ Laid out precisely, there are several issues with security.
 
 - Silicons
   - Security's relationship with AI and cyborgs will be greatly altered, as they will no longer be able to aid sec in making arrests under most circumstances.
-  - The proposed solution to this is to remove the "inaction clause" from law one, which allows it to be interpreted in a way that causes less conflict with security. This is subject to change if a better solution is discovered.
+  - The proposed solution to this is to add a "station authorities" exception to law 1, allowing for security and command to deal with threats, while also permitting some creative interpretation.
 
 - Crew Relations
   - This is not a pass for security to shoot wanted people unprovoked. Security must still use escalation against people they are arresting.
