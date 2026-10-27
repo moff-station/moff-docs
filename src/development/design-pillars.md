@@ -24,6 +24,22 @@ The disaster aspect of a round should not all hinge on a single event. Disasters
 
 Not all events need to be harmful, but at bare minimum they should have the potential to leave a meaningful impact on the round.
 
+## Internal Consistency & Verisimilitude
+
+Space Station 14 is differentiated from a pure social deduction game by its mechanical depth, and that depth creates a rich substrate for
+emergent stories to emerge. Items in the game should not exist purely to fulfill some game design need. As a very basic example, Telecrystrals
+could have just been a number that's tracked in an uplink, but instead they are material items -- at their simplest, they can be props for RP,
+or because they already exist as a concrete item, they could be integrated into some future idea.
+
+```admonish note
+You can do more in the sandbox if the sandbox is deeper.
+```
+
+As guidance, when making things which exist in the game world, consider how people actually in the setting would interact with it, how its
+manufacturer would have designed it, et cetera. To maintain a cohesive feel to the believability of the world, come up with rules that the
+world follows -- and then break them intentionally where it counts. For example, Nanotrasen might have a monopoly on laser weaponry, but
+that doesn't stop [certain syndicate factions from creating their own dangerously unstable laser arms](https://forum.spacestation14.com/t/gorlex-chem-lasers/20671).
+
 ## Collaborative Story Generator
 
 The game is not about winning or losing; it's about creating an interesting story.
@@ -36,7 +52,7 @@ This is to say, every round should feel unique and different from the last.
 - Players should have to use discernment when engaging with what's happening to the station.
 
 
-``` admonish warning
+```admonish warning
 For example, yelling "nukies!!" on the radio, followed by the crew arming up and responding may be interesting the first couple times, but becomes repetative, and doesn't make for an interesting story.
 ```
 
