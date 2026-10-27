@@ -27,9 +27,9 @@ Not all events need to be harmful, but at bare minimum they should have the pote
 ## Internal Consistency & Verisimilitude
 
 Space Station 14 is differentiated from a pure social deduction game by its mechanical depth, and that depth creates a rich substrate for
-emergent stories to emerge. Items in the game should not exist purely to fulfill some game design need. As a very basic example, Telecrystrals
-could have just been a number that's tracked in an uplink, but instead they are material items -- at their simplest, they can be props for RP,
-or because they already exist as a concrete item, they could be integrated into some future idea.
+emergent stories. Items in the game should not exist purely to fulfill some game design need. As a very basic example, Telecrystrals could
+have just been a number that's tracked in an uplink, but instead they are material items -- at their simplest, they can be props for RP, or
+because they already exist as a concrete item, they could be integrated into some future idea.
 
 ```admonish note
 You can do more in the sandbox if the sandbox is deeper.
